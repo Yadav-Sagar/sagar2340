@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sagar Yadav
+- 👋 Hi, I’m Sagar Yadav
 - 👀 I love coding
 - Currently i am pursuing B-Tech in computer science ans engineering
 
